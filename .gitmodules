@@ -1,0 +1,3 @@
+[submodule "theme_submodule"]
+	path = theme_submodule
+	url = git@github.com:mitchmac/theme_submodule.git
